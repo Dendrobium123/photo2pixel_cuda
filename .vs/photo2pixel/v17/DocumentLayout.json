@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1157D974-1994-924D-EB10-5BF58BC12318}|photo2pixel\\photo2pixel.vcxproj|C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1157D974-1994-924D-EB10-5BF58BC12318}|photo2pixel\\photo2pixel.vcxproj|solutionrelative:photo2pixel\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1157D974-1994-924D-EB10-5BF58BC12318}|photo2pixel\\photo2pixel.vcxproj|C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
+      "RelativeMoniker": "D:0:0:{1157D974-1994-924D-EB10-5BF58BC12318}|photo2pixel\\photo2pixel.vcxproj|solutionrelative:photo2pixel\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1157D974-1994-924D-EB10-5BF58BC12318}|photo2pixel\\photo2pixel.vcxproj|C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}|",
+      "RelativeMoniker": "D:0:0:{1157D974-1994-924D-EB10-5BF58BC12318}|photo2pixel\\photo2pixel.vcxproj|solutionrelative:photo2pixel\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\.gitignore",
+              "RelativeDocumentMoniker": "photo2pixel\\.gitignore",
+              "ToolTip": "C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\.gitignore",
+              "RelativeToolTip": "photo2pixel\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-07T12:54:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\README.md",
+              "RelativeDocumentMoniker": "photo2pixel\\README.md",
+              "ToolTip": "C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\README.md",
+              "RelativeToolTip": "photo2pixel\\README.md",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-07T12:33:00.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\kernel.cu",
+              "RelativeDocumentMoniker": "photo2pixel\\kernel.cu",
+              "ToolTip": "C:\\Users\\10258\\Desktop\\\u4E2D\u79D1\u5927\u7814\u4E00\\GPU\u5E76\u884C\u8BA1\u7B97\\GPU\u5B9E\u9A8C\\photo2pixel_cuda\\photo2pixel\\photo2pixel\\kernel.cu",
+              "RelativeToolTip": "photo2pixel\\kernel.cu",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAMwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-04T09:50:31.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
