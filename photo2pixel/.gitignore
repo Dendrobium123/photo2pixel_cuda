@@ -1,0 +1,69 @@
+# Build artifacts
+build/
+bin/
+out/
+Release/
+Debug/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.pdb
+*.ilk
+*.exp
+
+# CUDA intermediate
+*.linkstate
+*.ptx
+*.cubin
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.vcxproj.user
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IDEs
+.idea/
+*.sln
+*.sln.docstates
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# OpenCV/test outputs
+result_*.png
+*.jpg
+*.jpeg
+
+# Large files / data
+*.mp4
+*.mov
+
+# Git LFS note
+# If you have large binaries, consider using Git LFS
+
+# Ignore compiled python artifacts (if any)
+__pycache__/
+*.pyc
+
+# End of .gitignore
