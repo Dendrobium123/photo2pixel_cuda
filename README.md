@@ -11,6 +11,12 @@
 - 两套实现：GPU（CUDA kernel）与串行 CPU 版本（验证正确性并作性能对比）
 - 输出结果：`result_with_preprocess.png`（GPU）和 `result_cpu.png`（CPU）
 
+效果:
+1. 原图：![input3](https://github.com/user-attachments/assets/acf48c13-b80d-4ae1-a21f-7dff266b6306)
+2. 输出: <img width="1706" height="1279" alt="result_with_preprocess" src="https://github.com/user-attachments/assets/d95b56ec-d68b-4fc1-86d6-6ed3b6df3c6a" />
+
+
+
 算法概览
 
 1. 预处理（Kuwahara + 增强）
